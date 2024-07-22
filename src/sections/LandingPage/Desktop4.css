@@ -1,0 +1,41 @@
+.stock{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 720px
+}
+.stock-market{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 557px
+}
+.stock-market01{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 108px;
+}
+.stock-market01 h4{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    color: #2196f3;
+    margin: 0;
+}
+.stock-market h3{
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 64px;
+    margin-top: 12px;
+}
+.stock-market02{
+    display: flex;
+    width: 1149px;
+    justify-content: space-between;
+    gap: auto;
+    margin-top: 31px;
+    
+}

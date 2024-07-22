@@ -1,0 +1,22 @@
+.sponsor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+}
+.sponsor01{
+    width: 1257px;
+    height: 120px;
+}
+.sponsor01 h4{
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 0;
+    text-align: center;
+    
+}
+.sponsor01 img{
+    max-width: 1257px;
+    height: 32px;
+    margin-top: 30px;
+}

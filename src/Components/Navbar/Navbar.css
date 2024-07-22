@@ -1,0 +1,73 @@
+.navbar{
+    display: flex;
+    height: 120px;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: white;
+}
+.navbar .logo{
+    width: 167.07px;
+    height: 45px;
+}
+.navbar-menu{
+    display: flex;
+    gap: 40px;
+    width: 460px;
+    height: 24px;
+    list-style: none;
+    line-height: 24px;
+    font-size:16px;
+    color: #90a2b2;
+    margin-left: 80px;
+
+}
+.navbar-button{
+ display: flex;
+ justify-content: space-between;
+ gap: 16px;
+ align-items: center;
+ 
+}
+.frame{
+    display: flex;
+}
+.navbar-frame{
+    display: flex;
+    width: 1280px;
+    height: 48px;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.navbar li {
+    cursor: pointer;
+    text-decoration: none;
+}
+.navbar li:hover{
+    color: #2196f3;
+}
+.butt1{
+    width: 126px;
+    height: 48px;
+    border-radius: 8px;
+    padding: 12px 32px;
+    background-color: white;
+    color: #2196f3;
+    cursor: pointer;
+    line-height: 24px;
+ font-weight: 900;
+ font-size: 16px;
+
+}
+.butt2{
+    width: 126px;
+    height: 48px;
+    border-radius: 8px;
+    padding: 12px 32px;
+    background-color: #2196f3;
+    color: white;
+    cursor: pointer;
+    line-height: 24px;
+ font-weight: 900;
+ font-size: 16px;
+}
