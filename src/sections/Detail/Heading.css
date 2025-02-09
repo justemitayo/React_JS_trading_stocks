@@ -1,0 +1,29 @@
+.heading{
+    /* width: 33.75rem; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 3rem 7rem;
+}
+.heading-head{
+    /* width: 33.75rem; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.heading-head h3{
+    color: #1D242A;
+    font-weight: bold;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    /* margin-right: 7rem; */
+}
+.heading-head button{
+    background-color: white;
+    color: #2196F3;
+    font-size: 1.25rem;
+    font-weight: 600;
+    line-height: 1.5rem;
+}

@@ -1,0 +1,18 @@
+.vide{
+    /* flex: 1 1 25rem; */
+    /* height: 23.5rem; */
+    padding-right: 2.5rem;
+    margin-bottom: 2.5rem;
+}
+.vide img{
+    width: 25rem;
+    height: 18rem;
+    margin-bottom: 1.5rem;
+}
+.vide h6{
+    font-weight: 501;
+    font-size: 1.25rem;
+    line-height: 2rem;
+    width: 25rem;
+    color: #1d242a;
+}

@@ -1,5 +1,5 @@
 import React from 'react';
-import './Wallet.css'
+import './Wallet.css';
 
 const Wallet = ({image, text, sub_text}) => {
   return (

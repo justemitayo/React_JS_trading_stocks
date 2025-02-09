@@ -1,0 +1,23 @@
+.mat{
+    width: 25rem;
+    margin: 0rem 1.25rem;
+}
+.mat img{
+    width: 25rem;
+    height: 18rem;
+}
+.mat h6{
+    margin: 1.5rem 0rem;
+    font-weight: 600;
+    font-size: 1.25rem;
+    line-height: 2rem;
+    color: #1d242a;
+}
+.mat button{
+    text-align: center;
+    border: 1px solid #2196f3;
+    background-color: white;
+    color: #2196f3;
+    width: 25rem;
+    height: 4rem;
+}

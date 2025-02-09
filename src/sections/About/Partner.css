@@ -1,0 +1,94 @@
+.partner{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;    
+    margin: 5rem 0rem;
+    /* height: 670px; */
+}
+.partner-heading{
+    /* width: 1094px; */
+    /* height: 456px; */
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.partner-top{
+    /* width: 58rem; */
+    /* background-color: red; */
+    /* display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center; */
+    padding: 1.5rem;
+    /* justify-content: center; */
+    /* align-self: center; */
+    text-align: center;
+    /* margin: 0; */
+}
+.partner-top p{
+    color: #5c7184;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 0;
+    /* width: 58rem; */
+ 
+}
+.partner-top h3{
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 64px;
+    color: #1d242a;
+    margin-bottom: 0.75rem;
+}
+.partner-body{
+    /* height: 268px; */
+    /* width: 1094px; */
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 2rem;
+    text-align: center;
+}
+.partner-quality, .partner-pricing{
+    width: 487px;
+    margin: 1rem 3.25rem;
+
+}
+.flash{
+    width: 80px;
+    height: 80px;
+    margin-bottom: 1.5rem;
+}
+.yurry{
+    width: 16px;
+    height: 16px;
+
+}
+.partner-quality h4{
+    font-size: 17px;
+    line-height: 32px;
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+    margin-top: 0;
+    color: #1d242a;
+}
+.partner-quality p{
+margin-top: 0;
+font-size: 16px;
+color: #5c7184;
+}
+.partner-quality button{
+    /* width: 277px; */
+    /* height: 24px; */
+    color: #2196f3;
+    text-align: center;
+    background-color: white;
+    font-size: 16px;
+    margin-top: 1.5rem;
+}
+

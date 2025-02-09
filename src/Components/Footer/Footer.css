@@ -26,6 +26,7 @@
 .footer-component p{
     font-size: 14px;
     color: #5c7184;
+    padding-bottom: 12px;
 }
 .footer-logo .google{
     width: 271.59px;
@@ -36,11 +37,14 @@
     font-size: 16px;
     line-height: 24px;
     color: #1d242a;
-    margin: 0;
+    padding-bottom: 12px;
 }
 .footer-copy{
     height: 60px;
-    align-self: center;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     font-size: 14px;
     line-height: 20px;
     color: #1d242a;

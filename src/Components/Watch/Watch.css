@@ -1,0 +1,15 @@
+.watch{
+    width: 25rem;
+    margin: 0rem 1.25rem;
+}
+.watch img{
+    width: 25rem;
+    height: 18rem;
+}
+.watch h6{
+    margin: 1.5rem 0rem;
+    font-weight: 600;
+    font-size: 1.25rem;
+    line-height: 2rem;
+    color: #1d242a;
+}

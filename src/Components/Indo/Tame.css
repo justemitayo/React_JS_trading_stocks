@@ -1,0 +1,31 @@
+.tame{
+    display: flex;
+    flex-direction: column;
+    width: 41.25rem;
+    flex-wrap: wrap;
+   /* height: 10rem; */
+   /* border-radius: 0.8rem;
+   box-shadow: 0 4px 7px rgba(0,0,0,0.25); */
+    margin: 1.25rem 7rem;
+}
+.tame h3{
+    display: flex;
+    flex-wrap: wrap;
+    font-weight: bold;
+    font-size: 2.125rem;
+    line-height: 3rem;
+    color: #1d242a;
+}
+.tame p{
+    font-size: 1rem;
+    line-height: 1.5rem;
+    color: #5c7184;
+    display: flex;
+    flex-wrap: wrap;
+}
+.tame img{
+    margin: 2.5rem 0rem;
+    width: 41.25rem;
+    border-radius: 0.8rem;
+    height: 22.5rem;
+}

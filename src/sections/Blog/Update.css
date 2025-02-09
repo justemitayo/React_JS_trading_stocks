@@ -1,0 +1,33 @@
+.update{
+    /* height: 45rem; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+}
+.update-wallet{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;  
+}
+.update-head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* width: 80rem; */
+    margin-bottom: 2.5rem;
+    height: 3rem;
+}
+.update-head h4{
+    font-size: 2rem;
+    line-height: 3rem;
+    font-weight: bold;
+}
+.update-head button{
+    background-color: white;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #2196f3;
+}

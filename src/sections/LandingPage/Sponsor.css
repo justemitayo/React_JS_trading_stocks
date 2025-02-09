@@ -1,12 +1,14 @@
 .sponsor{
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    height: 300px;
+    /* height: 300px; */
+    margin: 5rem 0rem;
 }
 .sponsor01{
-    width: 1257px;
-    height: 120px;
+    /* width: 1257px; */
+    /* height: 120px; */
 }
 .sponsor01 h4{
     font-size: 24px;
@@ -17,6 +19,6 @@
 }
 .sponsor01 img{
     max-width: 1257px;
-    height: 32px;
+    /* height: 32px; */
     margin-top: 30px;
 }

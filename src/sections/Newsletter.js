@@ -8,7 +8,7 @@ const Newsletter = () => {
             <div className='newsletter-preview'>
                 <div className='newsletter-text'>
                     <h4>OUR NEWSLETTER</h4>
-                    <h2>Stay updated with our <br />weekly newsletter</h2>
+                    <h2>Stay updated with our weekly newsletter</h2>
                     <p>a collection of the hottest stock market news sent every week to<br /> your email</p>
                 </div>
                 <div className='newsletter-signup'>

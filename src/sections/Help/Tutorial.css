@@ -1,0 +1,29 @@
+.tutorial{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    /* height: 43rem; */
+    margin-top: 5rem;
+}
+.tutorial h3{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2.5rem;
+    line-height: 4rem;
+    color: #1d242a;
+}
+.tutorial p{
+    color: #5c7184;
+    font-size: 1rem;
+    text-align: center;
+    text-align: 1.25rem;
+    margin-bottom: 4rem;
+}
+.tutorial-wallet{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    /* margin-bottom: 0.5rem; */
+}

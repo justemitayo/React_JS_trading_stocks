@@ -1,6 +1,8 @@
 .feature{
-    height: 720px;
+    /* height: 720px; */
+    margin: 5rem 0rem;
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
 }
@@ -10,14 +12,16 @@
 }
 .feature-text{
     width: 579px;
-    height: 354px;
+    /* height: 354px; */
+    margin: 1.5rem 2rem;
 }
 .feature01{
-    width: 1140px;
-    height: 588px;
+    /* width: 1140px;
+    height: 588px; */
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
 }
 .feature-text h4{
     font-weight: 700;
@@ -36,7 +40,7 @@
     line-height: 24px;
     color: #5c7184;
     width: 512px;
-    height: 96px;
+    /* height: 96px; */
 }
 .feature-text button{
     width: 157px;
@@ -46,4 +50,5 @@
     color: white;
     font-weight: 500;
     font-size: 16px;
+    margin: 1.5rem 0rem;
 }

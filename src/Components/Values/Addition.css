@@ -1,0 +1,36 @@
+.addition{
+    width: 295px;
+    height: 340px;
+    border-radius: 12px;
+    padding: 1.25rem;
+    margin: 0.5rem 0.75rem;
+    border: 1px solid #c6cfd7;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 7px 10px rgba(0,0,0,0.25);
+
+}
+.addition img{
+    width: 80px;
+    height: 80px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.addition h4{
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 12px;
+    margin-top: 0%;
+}
+.addition p{
+    font-size: 16px;
+    line-height: 24px;
+    color: #5c7184;
+    text-align: center;
+    width: 247px;
+    height: 144px;
+    margin-top: 0%;
+}

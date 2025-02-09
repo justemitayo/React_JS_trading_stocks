@@ -1,0 +1,58 @@
+.vision{
+    /* height: 540px; */
+    margin: 5rem 0rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    /* background-color: rebeccapurple; */
+}
+.vision-component{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    /* height: 408px;
+    width: 1158px; */
+}
+.vision-component .meeting{
+    border-radius: 10px;
+    width: 544px;
+    /* height: 408px; */
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+}
+.vision-content{
+    width: 534px;
+    height: 220px;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+}
+.vision-content h3{
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 64px;
+    margin: 0;
+}
+.vision-content p{
+    line-height: 24px;
+    font-size: 16px;
+    color: #5c7184;
+}
+.vision-content button{
+    color: #2196f3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 1.5rem;
+
+}
+.arrow{
+    width: 24px;
+    height: 24px;
+}

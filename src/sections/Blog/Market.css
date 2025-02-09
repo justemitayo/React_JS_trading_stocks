@@ -1,0 +1,45 @@
+.market{
+    height: 42rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background: linear-gradient( hsla(0, 4%, 95%, 0.933), rgba(255,255,255,0.5)), url('../../Assets/images/Crypto.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.market-content{
+    width: 41.3rem;
+    height: 28rem;
+    margin-left: 4.5rem;
+}
+.market-content h6{
+    font-size: 20px;
+    line-height: 2rem;
+    font-weight: 100;
+    color: #2196f3;
+    margin: 0%;
+}
+.market-content h2{
+    color: #1d242a;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 4.5rem;
+    margin: 0%;
+}
+.market-content p{
+    color: #5c7184;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    margin-bottom: 2.5rem;
+}
+.market-content button{
+    width: 10rem;
+    height: 3.5rem;
+    border-radius: 8px;
+    background-color: #2196f3;
+    color: white;
+    font-weight: 500;
+    font-size: 1rem;
+}

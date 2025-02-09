@@ -14,12 +14,12 @@ const Navbar = () => {
         <Link to='/'><img  className='logo' alt='arrow' src={logo}/></Link>
         <ul className='navbar-menu'>
             <Link to='/about-us'> <li>About Us</li></Link>  
-            <li>Why Us?</li>  
-            <li>Blog</li>
-            <li>Journey
-              <img src={arrow} alt='arrow'/>
-            </li>
-            <li>Help</li>  
+            <Link to='/why-us?'><li>Why Us?</li></Link> 
+            <Link to='/blog'><li>Blog</li></Link>
+            <Link to ='/journey'><li>
+              Journey<img src={arrow} alt='arrow'/>
+            </li></Link>
+            <Link to='/help'><li>Help</li></Link> 
           </ul>
         </div>    
           <div className='navbar-button'>

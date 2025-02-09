@@ -1,0 +1,114 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "date": "21/03/2022",
+            "subtitle": "Corporate News",
+            "text": "Understanding Legal Commodity Futures Trading Transactions",
+            "subtext": "Currently, there are many issues regarding brokers and illegal transactions such as binary options. Binary options are products that are duplicated from options products. Where this option product is a product used for...",
+            "button": "Read More",
+            "image": "../Assets/images/Crypto.png"
+        },
+        {
+            "id": 2,
+            "date": "21/03/2022",
+            "subtitle": "Corporate News",
+            "text": "Indonesia Clearing House (ICH) Retains Implementation ISO ...",
+            "subtext": "The term 'information is an organizational asset' has been recognized by almost all organizations. As a result of the increasing use of technology in organizations, the threat to information becomes important.",
+            "button": "Read More",
+            "image": "../../Assets/images/Indo.png"
+        },
+        {
+            "id": 3,
+            "date": "21/03/2022",
+            "subtitle": "Corporate News",
+            "text": "ICDX Group 12th Anniversary: Together We Achieve More!",
+            "subtext": "It has been more than a decade that ICDX Group has contributed to the commodity futures trading industry. Right on its 12th anniversary, ICDX Group also expressed appreciation to all members and business ...",
+            "button": "Read More",
+            "image": "../../Assets/images/Laptop.png"
+        },
+        {
+            "id": 4,
+            "date": "21/03/2022",
+            "subtitle": "Corporate News",
+            "text": "Top Stock Market News For Today April 13, 2022",
+            "subtext": "stock futures are in the green in early morning trading as we approach the midweek session. This comes as the stock market continues to see-saw while investors digest the current batch of economic data. For today, the latest update on the economic ...",
+            "button": "Read More",
+            "image": "../../Assets/images/Chess.png"
+        },
+        {
+            "id": 5,
+            "date": "21/03/2022",
+            "subtitle": "Corporate News",
+            "text": "Best Stocks To Invest In 2022? 5 Fintech Stocks To Watch ...",
+            "subtext": "As tech stocks among other growth sectors take a breather, fintech stocks are arguably, in an interesting position. By and large, this part of the stock market today has and continues to experience volatility. For starters, the industry boomed as rapid ...",
+            "button": "Read More",
+            "image": "../../Assets/images/Store.png"
+        },
+        {
+            "id": 6,
+            "date": "21/03/2022",
+            "subtitle": "Corporate News",
+            "text": "3 Top Software Stocks To Watch In October 2020",
+            "subtext": "Software stocks have been a promising investment theme in recent years. When we have big names like Microsoft Corp (MSFT Stock Report) and Salesforce (CRM Stock Report) leading the industry.",
+            "button": "Read More",
+            "image": "../../Assets/images/Unsplash.png"
+        },
+        {
+        "id": 7,
+        "date": "21/03/2022",
+        "subtitle": "Corporate News",
+        "text": "CrowdStrike Holdings (CRWD) Vs Cloudflare (NET): Which Is ...",
+        "subtext": "With pressures created by the coronavirus pandemic prompting organizations to operate remotely, cybersecurity stocks have been enjoying huge success. As more valuable information is being transmitted online, organizations have been prone to cyber ...",
+        "button": "Read More",
+        "image": "../../Assets/images/Mine.png"
+        },
+        {
+        "id": 8,
+        "date": "21/03/2022",
+        "subtitle": "Corporate News",
+        "text": "Best Industrial Stocks To Buy Now?  4 To Watch Before Next Week",
+        "subtext": "Industrial stocks continue to soar as investors bet on reopening plays and cyclical stocks. While the industrial sector appears to be on the rise, some of the top tech stocks from 2020 have mostly traded sideways this year.",
+        "button": "Read More",
+        "image": "../../Assets/images/Dev.png"
+        },
+        {
+        "id": 9,
+        "date": "21/03/2022",
+        "subtitle": "Corporate News",
+        "text": "4 Consumer Staples Stocks To Watch ",
+        "subtext": "With the recent correction in the stock market, consumer staple stocks could be back in focus. It is a sector that is widely considered as a safe haven during times of uncertainties. Regardless of the market sentiment, many investors would still invest in consumer staple stocks. ",
+        "button": "Read More",
+        "image": "../../Assets/images/Headache.png"
+        },
+        {
+            "id": 10,
+            "date": "21/03/2022",
+            "subtitle": "Corporate News",
+            "text": "Top Tech Stocks To Watch This Week; 2 Up 90%+ YTD",
+            "subtext": "Tech stocks continue to dominate the stock market right now. Evidently, this is because of the stellar earnings season that we have seen over the past few weeks. For instance, tech juggernauts Apple.",
+            "button": "Read More",
+            "image": "../../Assets/images/Book.png"
+        },
+        {
+            "id": 11,
+            "date": "21/03/2022",
+            "subtitle": "Corporate News",
+            "text": "Is ChargePoint (CHPT) The Best EV Charging Stock To Buy Right Now?",
+            "subtext": "Much of the focus of electrification has been on automakers. But what good is an electric vehicle (EV) without the charging stations? When legendary automakers like General Motors (NYSE: GM) and Ford (NYSE: F) are ramping ...",
+            "button": "Read More",
+            "image": "../../Assets/images/Light.png"
+        },
+        {
+            "id": 12,
+            "date": "21/03/2022",
+            "subtitle": "Corporate News",
+            "text": "WeWork (WE Stock) IPO: Heres What Investors Need To Know",
+            "subtext": "WeWork’s (NYSE: WE) stocks rose this week in light of its’ market debut, after a tumultuous journey that included the implosion of its previous initial public offering (IPO) plans and the ouster of co-founder Adam Neumann.",
+            "button": "Read More",
+            "image": "../../Assets/images/Chair.png"
+        }
+
+  
+    ]
+}

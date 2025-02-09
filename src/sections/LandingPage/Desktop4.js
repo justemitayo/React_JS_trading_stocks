@@ -31,9 +31,9 @@ const Desktop4 = () => {
 
         <div className='stock-market02'>
             {data.map((dt, index) => <Wallet {...dt} key={index} />)}
-        </div>
+        </div> 
     </div>
-    </div>
+    </div> 
   )
 }
 

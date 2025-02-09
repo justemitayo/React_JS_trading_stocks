@@ -1,22 +1,23 @@
 .stock{
     display: flex;
-    flex-direction: column;
+    /* flex-direction: column; */
     align-items: center;
     justify-content: center;
-    height: 720px
+    /* height: 720px */
+    margin: 7rem 0rem;
 }
 .stock-market{
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: flex-start;
-    height: 557px
+    justify-content: center;
+    /* height: 557px */
 }
 .stock-market01{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    height: 108px;
+    /* display: flex; */
+    /* flex-direction: column; */
+    text-align: center;
+    /* height: 108px; */
 }
 .stock-market01 h4{
     font-weight: 600;
@@ -33,9 +34,11 @@
 }
 .stock-market02{
     display: flex;
-    width: 1149px;
-    justify-content: space-between;
-    gap: auto;
+    /* width: 1149px; */
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    /* gap: auto; */
     margin-top: 31px;
     
 }
