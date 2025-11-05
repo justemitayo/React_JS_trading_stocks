@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './Navbar.css'
 import arrow from '../../Assets/images/downArrow.png';
 import logo from '../../Assets/images/Untitled 2.png';
